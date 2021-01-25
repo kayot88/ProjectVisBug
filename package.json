@@ -21,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ctrl/tinycolor": "^2.0.0",
+    "@ctrl/tinycolor": "^3.3.3",
     "blingblingjs": "^2.0.2",
     "hotkeys-js": "^3.3.5",
     "ragrid": "^1.0.5"
