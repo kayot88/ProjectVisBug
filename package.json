@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.26.3",
-    "concurrently": "^3.5.1",
+    "concurrently": "^6.1.0",
     "postcss": "^6.0.22",
     "postcss-cli": "^5.0.1",
     "postcss-import": "^11.1.0",
